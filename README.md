@@ -1,10 +1,10 @@
 # 💫 Hi 👋, I'm Parmar Hardik
 
-Email Me 👉 ✉️ **** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **hardik7219m@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently studying:**
-- 🌱 **I’m currently learning webdev:** Enter your tech here
-- 📫 **How to reach me:** Enter your email here
+- 🌱 **I’m currently learning :** webdev
+- 📫 **How to reach me:** hardik7219m@gmail.com
 - 😄 **Pronouns:** Hardik
 
 # 💻 Tech Stack:
