@@ -3,7 +3,8 @@
 Email Me 👉 ✉️ **hardik7219m@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently studying:**
-- 🌱 **I’m currently learning :** webdev
+- 🌱 I’m currently learning **DevOps**
+- 💬 Ask me about **FrontEnd, DevOps**
 - 📫 **How to reach me:** hardik7219m@gmail.com
 - 😄 **Pronouns:** Hardik
 
