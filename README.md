@@ -20,7 +20,7 @@ Email Me 👉 ✉️ **hardik7219m@gmail.com** For Collaboration/Project or Anyt
 </div>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/hardik-parmar-b774a1399) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/hardik-parmar-b774a1399/) 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hardik7219&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
