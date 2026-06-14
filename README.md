@@ -1,4 +1,4 @@
-[https://hardik7219.netlify.app](https://hardik-dev-7219.vercel.app/)
+https://hardik-dev-7219.vercel.app/
 
 Email Me 👉 ✉️ **hardik7219m@gmail.com** For Collaboration/Project or Anything Else. 
 
